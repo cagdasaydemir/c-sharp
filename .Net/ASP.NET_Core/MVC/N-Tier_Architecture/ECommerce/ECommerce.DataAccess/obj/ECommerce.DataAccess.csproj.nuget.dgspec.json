@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+        "projectName": "ECommerce.DataAccess",
+        "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\accag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\accag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj": {
+                "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj"
+              },
+              "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj": {
+                "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
+        "projectName": "ECommerce.Models",
+        "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
+        "packagesPath": "C:\\Users\\accag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\accag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
+        "projectName": "ECommerce.Utility",
+        "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
+        "packagesPath": "C:\\Users\\accag\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\accag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

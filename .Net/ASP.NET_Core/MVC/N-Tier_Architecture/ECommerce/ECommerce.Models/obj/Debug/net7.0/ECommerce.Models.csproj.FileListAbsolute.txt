@@ -1,0 +1,12 @@
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\bin\Debug\net7.0\ECommerce.Models.deps.json
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\bin\Debug\net7.0\ECommerce.Models.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\bin\Debug\net7.0\ECommerce.Models.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.csproj.AssemblyReference.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.AssemblyInfoInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.AssemblyInfo.cs
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\refint\ECommerce.Models.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ECommerce.Models.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Models\obj\Debug\net7.0\ref\ECommerce.Models.dll
