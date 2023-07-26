@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj": {}
+    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj": {
+    "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
+        "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
         "projectName": "ECommerce.Models",
-        "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
+        "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Models\\ECommerce.Models.csproj",
         "packagesPath": "C:\\Users\\accag\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Models\\obj\\",
+        "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\accag\\AppData\\Roaming\\NuGet\\NuGet.Config",

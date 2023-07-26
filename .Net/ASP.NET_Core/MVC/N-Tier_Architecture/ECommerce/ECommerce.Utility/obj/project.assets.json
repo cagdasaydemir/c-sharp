@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
       "projectName": "ECommerce.Utility",
-      "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
+      "projectPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
       "packagesPath": "C:\\Users\\accag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\obj\\",
+      "outputPath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\accag\\AppData\\Roaming\\NuGet\\NuGet.Config",

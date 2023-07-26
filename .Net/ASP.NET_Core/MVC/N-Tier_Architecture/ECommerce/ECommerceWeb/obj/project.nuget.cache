@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Armm1bQuznQ3DMPkT9j87+ZFtjz/U3f+sVQCIoAZSRmhzGSZT+SS6WsEPMB/Muuoc2C5zf9P+7VqrkccfJzv6w==",
+  "dgSpecHash": "Uh7DZIisVxmg+9nDJ19qjwbxuGiErwvXtoPHunom0q1zahCxbGMqmhOr3z6RyMLz/mMAd7EJ0J5vzORXN1suqA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerceWeb\\ECommerceWeb.csproj",
+  "projectFilePath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\ECommerceWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\accag\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\accag\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

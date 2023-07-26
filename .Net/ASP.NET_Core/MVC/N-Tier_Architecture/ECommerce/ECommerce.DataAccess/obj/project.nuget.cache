@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SstGGGvKWUoBc410D6UofQVftUVsCF1cGa80kkySzWvxKyWSW/PPCk4uA4zfQMtlaCzv8ZPGBLXJVZxp5vxdUQ==",
+  "dgSpecHash": "gAsq1iLTxSNghj7ByVO6hHEFG6E752zoLqADIpjo4jftBKyWDoEiDcwJZRLbZNBXswuroeHn3M6DmP+P8jkoJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.DataAccess\\ECommerce.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\accag\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\accag\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

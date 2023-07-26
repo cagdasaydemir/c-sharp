@@ -10,3 +10,15 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\EComme
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Utility\obj\Debug\net7.0\refint\ECommerce.Utility.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ref\ECommerce.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\bin\Debug\net7.0\ECommerce.Utility.deps.json
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\bin\Debug\net7.0\ECommerce.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\bin\Debug\net7.0\ECommerce.Utility.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.csproj.AssemblyReference.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.AssemblyInfoInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.AssemblyInfo.cs
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.csproj.CoreCompileInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\refint\ECommerce.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ECommerce.Utility.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerce.Utility\obj\Debug\net7.0\ref\ECommerce.Utility.dll

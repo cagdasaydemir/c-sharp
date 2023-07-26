@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ME7ZVz0FkNhpGqjjJVIAI7jyrL07dQU0yS5JRGlYVViounwACY3uvVluXGX9QY25HhxXKB3EtuyGtmsB/+nGNA==",
+  "dgSpecHash": "JWQgjZ9cISa0gpd5W7SH4Ss0WWSn40xG3shuN4Q0dZASaOqyN2xd9ewwF6fi/7iT04swKoPZa447eJCtoo7iNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
+  "projectFilePath": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerce.Utility\\ECommerce.Utility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
