@@ -552,6 +552,7 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Build.dll
@@ -595,6 +596,7 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\NuGet.Common.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\NuGet.Configuration.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
@@ -781,6 +783,7 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.AssemblyInfoInputs.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.AssemblyInfo.cs
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.csproj.CoreCompileInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.RazorAssemblyInfo.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.RazorAssemblyInfo.cs
@@ -800,6 +803,3 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.genruntimeconfig.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ref\ECommerceWeb.dll
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.MvcApplicationPartsAssemblyInfo.cs

@@ -36,16 +36,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/ECommerce/ECommerceWeb/Areas/Admin/Views/Product/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/ECommerce/ECommerceWeb/Areas/Admin/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/ECommerce/ECommerceWeb/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/ECommerce/ECommerceWeb/Areas/Admin/Views/Product/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcHNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/ECommerce/ECommerceWeb/Areas/Admin/Views/_ViewImports.cshtml]
