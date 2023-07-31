@@ -800,3 +800,6 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.genruntimeconfig.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ref\ECommerceWeb.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.MvcApplicationPartsAssemblyInfo.cs
