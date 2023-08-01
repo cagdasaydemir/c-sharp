@@ -22,6 +22,11 @@ namespace ECommerceWeb.Areas.Customer.Controllers
             IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
             return View(productList);
         }
+        public IActionResult Details(int? productId)
+        {
+            Product product = _unitOfWork.Product.Get(x=> x.Id == productId, includeProperties: "Category");
+            return View(product);
+        }
 
         public IActionResult Privacy()
         {
