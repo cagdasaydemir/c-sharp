@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\263b1970-287a-4b3e-b582-1001c4ab15aa.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\263b1970-287a-4b3e-b582-1001c4ab15aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\3567719b-0d8b-4050-8764-d25eeec626ba.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\3567719b-0d8b-4050-8764-d25eeec626ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\459870e8-8d6b-4311-9102-a95830d51bc1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\459870e8-8d6b-4311-9102-a95830d51bc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\c1e1eacc-f827-42ff-92f3-d1ecff5f2656.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c1e1eacc-f827-42ff-92f3-d1ecff5f2656.jpg"
+    },
+    {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

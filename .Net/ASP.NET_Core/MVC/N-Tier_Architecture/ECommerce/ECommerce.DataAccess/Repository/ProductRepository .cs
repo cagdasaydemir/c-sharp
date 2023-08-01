@@ -37,9 +37,10 @@ namespace ECommerce.DataAccess.Repository
                 if(objFromDb.ImageUrl != null) {
                 objFromDb.ImageUrl = obj.ImageUrl;
                 }
+                //_db.Products.Update(objFromDb);
             }
 
-            _db.Products.Update(objFromDb);
+            
         }
     }
 }
