@@ -1,9 +1,11 @@
 ﻿using ECommerce.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerce.DataAccess.Data
 {
-    public class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
@@ -11,9 +13,15 @@ namespace ECommerce.DataAccess.Data
         }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+
+
+            // If you want to use Identity you need to add this line
+            base.OnModelCreating(modelBuilder);
+
             modelBuilder.Entity<Category>().HasData(
 
                 new Category { Id = 1001, Name = "Action", DisplayOrder = 1 },

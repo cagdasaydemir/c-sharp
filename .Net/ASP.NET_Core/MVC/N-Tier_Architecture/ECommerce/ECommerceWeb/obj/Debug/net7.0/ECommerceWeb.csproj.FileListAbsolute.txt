@@ -803,3 +803,11 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ECommerceWeb.genruntimeconfig.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\obj\Debug\net7.0\ref\ECommerceWeb.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\ECommerce\ECommerceWeb\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
