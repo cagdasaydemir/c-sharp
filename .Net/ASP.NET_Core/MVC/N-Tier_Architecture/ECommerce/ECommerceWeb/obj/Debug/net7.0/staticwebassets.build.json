@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i6/thhyYxsc/MoklZcXxJ2YqCMenHzlwJjw9upkxfkc=",
+  "Hash": "IpliVxUT+6vDERPVl6IGVd20RZ3VAaFX9TGilYIrLnI=",
   "Source": "ECommerceWeb",
   "BasePath": "_content/ECommerceWeb",
   "Mode": "Default",
@@ -1273,6 +1273,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\eedffe62-6220-42da-bb56-033fce726bab.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\js\\company.js",
+      "SourceId": "ECommerceWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\",
+      "BasePath": "_content/ECommerceWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\company.js"
     },
     {
       "Identity": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\js\\product.js",

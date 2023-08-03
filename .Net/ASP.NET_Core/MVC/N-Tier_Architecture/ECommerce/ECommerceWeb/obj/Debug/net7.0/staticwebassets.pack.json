@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets\\images\\product\\eedffe62-6220-42da-bb56-033fce726bab.jpg"
     },
     {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },

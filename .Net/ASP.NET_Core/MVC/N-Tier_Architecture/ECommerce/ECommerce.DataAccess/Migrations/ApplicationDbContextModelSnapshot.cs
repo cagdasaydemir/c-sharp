@@ -63,6 +63,70 @@ namespace ECommerce.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("ECommerce.Models.Company", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PhoneNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("PostalCode")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("State")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("StreetAddress")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Companies");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1001,
+                            City = "Rio De Janerio",
+                            Name = "Tech Solution",
+                            PhoneNumber = "9111111",
+                            PostalCode = "12345",
+                            State = "TX",
+                            StreetAddress = "123 Tech St."
+                        },
+                        new
+                        {
+                            Id = 1002,
+                            City = "Istanbul",
+                            Name = "Fashion Girls",
+                            PhoneNumber = "9222222",
+                            PostalCode = "23456",
+                            State = "NY",
+                            StreetAddress = "123 Tech St."
+                        },
+                        new
+                        {
+                            Id = 1003,
+                            City = "Tokyo",
+                            Name = "DIY Equipments",
+                            PhoneNumber = "9333333",
+                            PostalCode = "34567",
+                            State = "LA",
+                            StreetAddress = "123 Tech St."
+                        });
+                });
+
             modelBuilder.Entity("ECommerce.Models.Product", b =>
                 {
                     b.Property<int>("Id")
@@ -412,6 +476,10 @@ namespace ECommerce.DataAccess.Migrations
                     b.Property<string>("City")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("CompanyId")
+                        .IsRequired()
+                        .HasColumnType("int");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -424,6 +492,8 @@ namespace ECommerce.DataAccess.Migrations
 
                     b.Property<string>("StreetAddress")
                         .HasColumnType("nvarchar(max)");
+
+                    b.HasIndex("CompanyId");
 
                     b.HasDiscriminator().HasValue("ApplicationUser");
                 });
@@ -488,6 +558,17 @@ namespace ECommerce.DataAccess.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("ECommerce.Models.ApplicationUser", b =>
+                {
+                    b.HasOne("ECommerce.Models.Company", "Company")
+                        .WithMany()
+                        .HasForeignKey("CompanyId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Company");
                 });
 #pragma warning restore 612, 618
         }
