@@ -1,0 +1,12 @@
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\bin\Debug\net7.0\SimpleBlog.Utility.deps.json
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\bin\Debug\net7.0\SimpleBlog.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\bin\Debug\net7.0\SimpleBlog.Utility.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.csproj.AssemblyReference.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.AssemblyInfoInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.AssemblyInfo.cs
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.csproj.CoreCompileInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\refint\SimpleBlog.Utility.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\SimpleBlog.Utility.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.Utility\obj\Debug\net7.0\ref\SimpleBlog.Utility.dll

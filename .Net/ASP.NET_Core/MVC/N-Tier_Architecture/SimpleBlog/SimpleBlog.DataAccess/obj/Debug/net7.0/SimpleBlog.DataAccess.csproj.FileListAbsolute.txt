@@ -1,0 +1,12 @@
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.deps.json
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.AssemblyInfo.cs
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\refint\SimpleBlog.DataAccess.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\ref\SimpleBlog.DataAccess.dll
