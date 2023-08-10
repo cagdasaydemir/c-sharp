@@ -1,4 +1,5 @@
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.deps.json
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.runtimeconfig.json
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.csproj.AssemblyReference.cache
@@ -9,6 +10,8 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\refint\SimpleBlog.DataAccess.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.pdb
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\ref\SimpleBlog.DataAccess.dll
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.DataAccess.runtimeconfig.json
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.genruntimeconfig.cache
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\ref\SimpleBlog.DataAccess.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.Models.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\bin\Debug\net7.0\SimpleBlog.Models.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog.DataAccess\obj\Debug\net7.0\SimpleBlog.DataAccess.csproj.CopyComplete
