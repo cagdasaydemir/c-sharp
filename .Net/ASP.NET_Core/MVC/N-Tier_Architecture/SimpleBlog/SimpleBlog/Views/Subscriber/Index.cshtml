@@ -1,0 +1,57 @@
+﻿@model List<Subscriber>
+@{
+    ViewData["Title"] = "Subscribers";
+}
+
+<div class="card border-0 mt-4">
+
+    <div class="card-header bg-secondary bg-gradient ml-0 py-4">
+
+        <div class="row">
+
+            <div class="col-12 text-center">
+
+                <h2 class="py-2 text-white">Subscribers</h2>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="card-body">
+
+        <div class="card shadow border-0">
+
+            <div class="card-body p-3">
+
+                <div class="row">
+
+                    <table id="tblData" class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Email</th>
+                                <th>Date Subscribed</th>
+                                <th>Date Unsubscribed</th>
+                                <th>Subscription Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts{
+    <script src="~/js/subscribersPage.js"></script>
+    }

@@ -80,12 +80,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/BlogPost/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1Bvc3RcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/BlogPost/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1Bvc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/BlogPost/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1Bvc3RcVXBzZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/BlogPost/UserPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1Bvc3RcVXNlclBvc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Shared/Error.cshtml]
@@ -96,8 +108,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Shared/_Notification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Subscriber/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaWJlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Subscriber/Subscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaWJlclxTdWJzY3JpYmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Subscriber/Subscribed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaWJlclxTdWJzY3JpYmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Subscriber/Unsubscribe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaWJlclxVbnN1YnNjcmliZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/Subscriber/Unsubscribed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaWJlclxVbnN1YnNjcmliZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/accag/Documents/Projects/c-sharp/.Net/ASP.NET_Core/MVC/N-Tier_Architecture/SimpleBlog/SimpleBlog/Views/_ViewImports.cshtml]

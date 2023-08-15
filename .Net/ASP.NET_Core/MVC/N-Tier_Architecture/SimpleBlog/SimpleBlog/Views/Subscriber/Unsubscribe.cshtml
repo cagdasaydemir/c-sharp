@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Unsubscribe";
+}
+@model UnsubscribeVM
+
+<div class="d-flex flex-column justify-content-center vh-100 ">
+
+    <h2>Unsubscribe from Our Blog</h2>
+   
+    @if (ViewData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">
+            @Html.Raw(ViewData["ErrorMessage"])
+        </div>
+    }
+    <form asp-action="Unsubscribe" method="post">
+
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-danger">Unsubscribe</button>
+        </div>
+
+    </form>
+
+</div>
+
+
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+            }

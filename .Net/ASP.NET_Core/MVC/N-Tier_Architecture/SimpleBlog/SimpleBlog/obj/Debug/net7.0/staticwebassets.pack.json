@@ -13,8 +13,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\SimpleBlog\\SimpleBlog\\wwwroot\\js\\blogPostDelete.js",
+      "PackagePath": "staticwebassets\\js\\blogPostDelete.js"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\SimpleBlog\\SimpleBlog\\wwwroot\\js\\blogPostFormValidation.js",
+      "PackagePath": "staticwebassets\\js\\blogPostFormValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\SimpleBlog\\SimpleBlog\\wwwroot\\js\\commentDelete.js",
+      "PackagePath": "staticwebassets\\js\\commentDelete.js"
+    },
+    {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\SimpleBlog\\SimpleBlog\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\SimpleBlog\\SimpleBlog\\wwwroot\\js\\subscribersPage.js",
+      "PackagePath": "staticwebassets\\js\\subscribersPage.js"
     },
     {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\SimpleBlog\\SimpleBlog\\wwwroot\\lib\\bootstrap\\LICENSE",

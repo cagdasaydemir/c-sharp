@@ -1,26 +1,25 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SimpleBlog.DataAccess.Repository;
+using SimpleBlog.DataAccess.Repository.IRepository;
 using SimpleBlog.Models;
+using SimpleBlog.Models.Models;
 using System.Diagnostics;
 
 namespace SimpleBlog.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IUnitOfWork _unitOfWork;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IUnitOfWork unitOfWork)
         {
-            _logger = logger;
+            _unitOfWork = unitOfWork;
         }
 
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
+            IEnumerable<BlogPost> blogPostList = _unitOfWork.BlogPost.GetAll(includeProperties: "Author,Comments");
+            return View(blogPostList);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

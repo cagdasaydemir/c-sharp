@@ -1,0 +1,82 @@
+﻿@model BlogPost
+@{
+    if (Model.Id == 0)
+    {
+        ViewData["Title"] = "Create";
+    }
+    else
+    {
+        ViewData["Title"] = "Edit";
+    }
+}
+
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-4">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-white py-2 "> @(Model.Id != 0 ? "Update" : "Create") Blog Post</h2>
+            </div>
+        </div>
+    </div>
+    <div class="card-body p-4">
+        <form id="blogPostForm" method="post" class="row" enctype="multipart/form-data">
+            <input asp-for="Id" hidden />
+
+            <div class="col-12">
+                <div class="p-3">
+                    <div class="form-floating py-2 col-12">
+                        <input asp-for="Title" id="Title" class="form-control border-0 shadow" />
+                        <label asp-for="Title" class="ms-2"></label>
+                        <span id="validationMessageTitle" class="text-danger"></span>
+                    </div>
+
+                    <div class="py-2 col-12">
+                        <label asp-for="Content" class="ms-3 text-muted"></label>
+                        <textarea id="tinyEditor" asp-for="Content" class="form-control border-0 shadow"></textarea>
+                        <span id="validationMessageContent" class="text-danger"></span>
+                    </div>
+
+
+                    @if (Model.Id != 0)
+                    {
+                        <div class="form-floating py-2 col-12">
+                            <input value="@Model.DateCreated.ToString("MMMM d, yyyy")" class="form-control border-0 shadow" disabled />
+                            <label asp-for="DateCreated" class="ms-2"></label>
+
+                        </div>
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Author.Name" class="form-control border-0 shadow" disabled />
+                            <label asp-for="Author.Name" class="ms-2"></label>
+                        </div>
+
+                    }
+                </div>
+
+            </div>
+            <div class="row pt-2">
+                <div class="col-6 col-md-3">
+                    @if (Model.Id != 0)
+                    {
+                        <button type="submit" id="submit" class="btn btn-primary form-control">Update</button>
+                    }
+                    else
+                    {
+                        <button type="submit" id="submit" class="btn btn-primary form-control">Create</button>
+                    }
+
+                </div>
+                <div class="col-6 col-md-3">
+                    <a asp-controller="BlogPost" asp-action="Index" class="btn btn-outline-primary border form-control">
+                        Back to List
+                    </a>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+
+@section Scripts{
+    <script src="~/js/blogPostFormValidation.js"></script>
+}

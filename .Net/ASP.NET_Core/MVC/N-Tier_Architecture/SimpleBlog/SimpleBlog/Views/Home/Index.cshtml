@@ -1,8 +1,115 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@model List<BlogPost>
+@{
+    ViewData["Title"] = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="card border-0 mt-4">
+
+    <div class="card-body py-4">
+
+
+        @if (Model.Count == 0)
+        {
+            <div class="alert alert-info">
+                <p><strong>Oops! No blog posts available.</strong></p>
+                <p>Looks like there are no blog posts at the moment.</p>
+            </div>
+        }
+        else
+        {
+            @foreach (var post in Model)
+            {
+                <div class="card shadow border-0 mb-5">
+
+                    <div class="card-header bg-primary ml-0">
+
+                        <div class="row">
+                            <div class="col-6">
+                                <h2 class="py-2 m-0 text-white">@post.Title</h2>
+                            </div>
+                            <div class="col-6 d-flex align-items-center justify-content-end">
+                                <a asp-controller="BlogPost" asp-action="Detail" asp-route-Id="@post.Id" class="btn btn-primary"><i class="bi bi-info-circle"></i> Detail</a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="card-body pt-4 pb-0">
+
+                        <div class="row mb-2">
+                            <div class="col-12 ">
+                                <p>@Html.Raw(post.Content)</p>
+                            </div>
+                            <span class="text-end col-12">@post.DateCreated.ToString("MMMM d, yyyy")</span>
+                            <a class="text-end col-12" asp-controller="BlogPost" asp-action="UserPosts" asp-route-id="@post.Author.Id">
+                                @post.Author.Name
+                            </a>
+                        </div>
+
+                        @if (post.Comments.Count == 0)
+                        {
+                            <div class="row mb-2">
+                                <span><i class="bi bi-chat-right-text"></i>  @post.Comments.Count()</span>
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="accordion accordion-flush" id="accordion-@post.Id">
+
+                                <div class="accordion-item">
+
+                                    <h2 class="accordion-header ">
+                                        <button class="accordion-button custom-accordion-button collapsed px-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapse-@post.Id" aria-expanded="false" aria-controls="collapse-@post.Id">
+                                            <span><i class="bi bi-chat-right-text"></i>  @post.Comments.Count()</span>
+                                        </button>
+                                    </h2>
+
+                                    <div id="collapse-@post.Id" class="accordion-collapse collapse" data-bs-parent="#accordion-@post.Id">
+                                        <div class="accordion-body">
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <h4>Comments</h4>
+
+                                                    @foreach (var comment in post.Comments)
+                                                    {
+                                                        <div class="card mb-3">
+                                                            <div class="card-header">
+                                                                <h6 class="card-title my-2"><b>@comment.CommentAuthor</b></h6>
+                                                            </div>
+                                                            <div class="card-body">
+                                                                <p class="card-text">@comment.Text</p>
+                                                            </div>
+                                                            <div class="card-footer">
+                                                                <div class="row justify-content-between align-items-center">
+                                                                    <div class="col text-end">
+                                                                        <small>@comment.DatePosted.ToString("MMMM d, yyyy")</small>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    }
+
+                                                </div>
+
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                        }
+
+                    </div>
+
+                </div>
+
+
+            }
+        }
+
+    </div>
 </div>

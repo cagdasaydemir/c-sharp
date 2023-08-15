@@ -236,7 +236,9 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\SimpleBlog.DataAccess.dll
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\SimpleBlog.Models.dll
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\SimpleBlog.DataAccess.pdb
+C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\SimpleBlog.Models.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\obj\Debug\net7.0\SimpleBlog.Web.csproj.AssemblyReference.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\obj\Debug\net7.0\SimpleBlog.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\obj\Debug\net7.0\SimpleBlog.Web.AssemblyInfoInputs.cache
@@ -262,5 +264,3 @@ C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architect
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\obj\Debug\net7.0\SimpleBlog.Web.pdb
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\obj\Debug\net7.0\SimpleBlog.Web.genruntimeconfig.cache
 C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\obj\Debug\net7.0\ref\SimpleBlog.Web.dll
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\SimpleBlog.Models.dll
-C:\Users\accag\Documents\Projects\c-sharp\.Net\ASP.NET_Core\MVC\N-Tier_Architecture\SimpleBlog\SimpleBlog\bin\Debug\net7.0\SimpleBlog.Models.pdb
