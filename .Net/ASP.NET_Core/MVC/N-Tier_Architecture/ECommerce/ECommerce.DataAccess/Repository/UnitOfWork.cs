@@ -1,5 +1,6 @@
 ﻿using ECommerce.DataAccess.Data;
 using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,6 +21,9 @@ namespace ECommerce.DataAccess.Repository
         public IShoppingCartRepository ShoppingCart { get; private set; }
 
         public IApplicationUserRepository ApplicationUser { get; private set; }
+        public IOrderHeaderRepository OrderHeader { get; set; }
+        public IOrderDetailRepository OrderDetail { get; set; }
+
 
         public UnitOfWork(ApplicationDbContext db) 
         {
@@ -29,6 +33,8 @@ namespace ECommerce.DataAccess.Repository
             Company = new CompanyRepository(_db);
             ShoppingCart = new ShoppingCartRepository(_db);
             ApplicationUser = new ApplicationUserRepository(_db);
+            OrderHeader= new OrderHeaderRepository(_db);
+            OrderDetail = new OrderDetailRepository(_db);
 
         }
 

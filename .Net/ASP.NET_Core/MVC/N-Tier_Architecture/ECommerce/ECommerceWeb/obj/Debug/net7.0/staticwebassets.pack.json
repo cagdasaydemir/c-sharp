@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\263b1970-287a-4b3e-b582-1001c4ab15aa.jpg",
       "PackagePath": "staticwebassets\\images\\product\\263b1970-287a-4b3e-b582-1001c4ab15aa.jpg"
     },
@@ -25,32 +33,8 @@
       "PackagePath": "staticwebassets\\images\\product\\459870e8-8d6b-4311-9102-a95830d51bc1.jpg"
     },
     {
-      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\851f5efc-0d35-4859-b01e-e4f9e13329b7.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\851f5efc-0d35-4859-b01e-e4f9e13329b7.jpg"
-    },
-    {
-      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\8dafe128-5bf2-429d-b4e6-010e6d2b80c2.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\8dafe128-5bf2-429d-b4e6-010e6d2b80c2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\8e311539-cc89-499e-8844-d2f4034bf840.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\8e311539-cc89-499e-8844-d2f4034bf840.jpg"
-    },
-    {
-      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\a812e6db-6d92-4715-a0eb-b99919cfa011.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\a812e6db-6d92-4715-a0eb-b99919cfa011.jpg"
-    },
-    {
-      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\b15777d0-e501-4424-93dd-eb5054663652.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\b15777d0-e501-4424-93dd-eb5054663652.jpg"
-    },
-    {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\c1e1eacc-f827-42ff-92f3-d1ecff5f2656.jpg",
       "PackagePath": "staticwebassets\\images\\product\\c1e1eacc-f827-42ff-92f3-d1ecff5f2656.jpg"
-    },
-    {
-      "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\images\\product\\eedffe62-6220-42da-bb56-033fce726bab.jpg",
-      "PackagePath": "staticwebassets\\images\\product\\eedffe62-6220-42da-bb56-033fce726bab.jpg"
     },
     {
       "Id": "C:\\Users\\accag\\Documents\\Projects\\c-sharp\\.Net\\ASP.NET_Core\\MVC\\N-Tier_Architecture\\ECommerce\\ECommerceWeb\\wwwroot\\js\\company.js",
